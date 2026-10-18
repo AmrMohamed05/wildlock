@@ -22,6 +22,13 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
+*.rar
+*.zip
+*.7z
+*.tar.gz
+*.rar.meta
+*.zip.meta
+*.7z.meta
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
@@ -112,3 +119,23 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Exclude unreferenced heavy raw heightmaps & non-desert terrain textures to keep GitHub push under size limits
+/Assets/TerrainSampleAssets/Textures/Heightmaps/
+/Assets/TerrainSampleAssets/Textures/Heightmaps.meta
+/Assets/TerrainSampleAssets/Textures/Terrain/Black_Sand*
+/Assets/TerrainSampleAssets/Textures/Terrain/Grass_A*
+/Assets/TerrainSampleAssets/Textures/Terrain/Grass_B*
+/Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss*
+/Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil*
+/Assets/TerrainSampleAssets/Textures/Terrain/Heather*
+/Assets/TerrainSampleAssets/Textures/Terrain/Muddy*
+/Assets/TerrainSampleAssets/Textures/Terrain/Pebbles*
+/Assets/TerrainSampleAssets/Textures/Terrain/Snow*
+/Assets/TerrainSampleAssets/Textures/Terrain/Tidal_Pools*
+/Assets/UnityTechnologies/Adam Character Pack/Scenes/
+/Assets/UnityTechnologies/Adam Character Pack/Scenes.meta
+/Assets/UnityTechnologies/Adam Character Pack/Adam/Crowd_LOD*
+/Assets/UnityTechnologies/Adam Character Pack/Adam/Textures/LOD_Textures/
+/Assets/UnityTechnologies/Adam Character Pack/Adam/Textures/LOD_Textures.meta
+
