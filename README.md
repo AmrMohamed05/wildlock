@@ -11,7 +11,7 @@
 
 ---
 
-## Assignment 2 — Part 3 Prototype Features
+##Prototype Features
 
 ### 1. Player Actions (5+ Distinct World-Altering Actions)
 1. **Object Collection & Extraction (`Walk Over` / `E`):** Collect rotating Red Ruby Gems spawned around the central Mine Cart (or press `E` at the Mine Cart to extract a bonus vein).
