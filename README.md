@@ -1,7 +1,9 @@
 # Wildlock — 2v2 Wild West Hero Arena Shooter (Gem Grab)
 
 **Developer:** Amr Mohamed Salah (58-12817)  
+**Course:** Video Game Design (Assignment 2)  
 **Engine:** Unity 6 (`6000.3.24f1`) — Universal Render Pipeline (URP) & Cinemachine 3  
+**Gameplay Video:** [Watch on Google Drive](https://drive.google.com/file/d/12bxyqW55NgxTU67W8LMiNBLiAcNZR6_l/view?usp=sharing)  
 
 ---
 

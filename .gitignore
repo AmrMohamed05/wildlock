@@ -139,3 +139,7 @@ InitTestScene*.unity*
 /Assets/UnityTechnologies/Adam Character Pack/Adam/Textures/LOD_Textures/
 /Assets/UnityTechnologies/Adam Character Pack/Adam/Textures/LOD_Textures.meta
 
+
+# Exclude Assignment 2 PDF and doc files
+Assignment2*
+generate_assignment2_pdf.py
